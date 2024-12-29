@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beranda - Sistem Inventaris Barang Toko</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sistem Inventaris Barang Toko</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="fitur.html">Fitur</a></li>
+                <li><a href="barang.html">Daftar Barang</a></li>
+                <li><a href="kontak.html">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Selamat Datang!</h2>
+            <p>Jelajahi berbagai barang elektronik terbaik di toko kami. Klik menu untuk mulai menjelajah!</p>
+            <div class="poster-container">
+                <img src="images/kulkas.jpg" alt="Kulkas">
+                <img src="images/laptop.jpg" alt="Laptop">
+                <img src="images/handphone.jpg" alt="Handphone">
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Toko Elektronik</p>
+    </footer>
+</body>
+</html>
